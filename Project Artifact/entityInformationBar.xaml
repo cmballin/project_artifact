@@ -1,0 +1,53 @@
+﻿<UserControl x:Class="Project_Artifact.entityInformationBar"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Project_Artifact"
+             mc:Ignorable="d" 
+             d:DesignHeight="160.995" d:DesignWidth="563.089">
+    <Grid>
+        <!--Inner Rectangle holds color and shadow-->
+        <Rectangle Fill="#33000000">
+            <Rectangle.Effect>
+                <DropShadowEffect Direction="270" ShadowDepth="3"/>
+            </Rectangle.Effect>
+        </Rectangle>
+        <Grid Grid.Row="0">
+            <!--Portrait, health, health counter-->
+            <Grid x:Name="container" Grid.Row="0" Margin="20">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+
+
+                <local:MaskImage x:Name="characterPortrait" mask="opacityMask.png" Margin="5" RenderOptions.BitmapScalingMode="HighQuality" image="abePortrait.jpg" Stretch="Fill" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                
+              
+              
+               
+
+                <!--Health Bar Container-->
+                <Grid x:Name="healthAllContainer"  Grid.Column="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*"/>
+                        <RowDefinition Height="2*"/>
+                        <RowDefinition Height="2*"/>
+                        <RowDefinition Height="0*"/>
+                    </Grid.RowDefinitions>
+                    <!--Health bar-->
+                    <Grid x:Name="healthBarContainer" Grid.Row="1">
+                        <local:interactiveBar x:Name="healthBar" percentage="35" healthBar="True"/>
+                    </Grid>
+                    <!--HUD health-->
+                    <Grid x:Name="healthInfoContainer" Grid.Row="2" HorizontalAlignment="Left">
+                        <local:healthHUD x:Name="healthInfo" currentLife="4450" totalLife="1000000"/>
+                    </Grid>
+                </Grid>
+            </Grid>
+
+        </Grid>
+    </Grid>
+
+</UserControl>

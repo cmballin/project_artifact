@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="Project_Artifact.healthHUD"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Project_Artifact"
+             mc:Ignorable="d" 
+             d:DesignHeight="240.576" d:DesignWidth="548.167">
+    <Viewbox>
+       
+            <StackPanel Orientation="Horizontal">
+                <TextBlock x:Name="currentLifeHUD" Text="452" Foreground="White" FontFamily="Open Sans" FontSize="260" VerticalAlignment="Center" Margin="0,0,40,0"/>
+            <StackPanel Margin="0,50,0,0" >
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="/" Foreground="White" FontFamily="Open Sans"  FontSize="120" Margin="0,0,40,0" />
+                    <TextBlock x:Name="totalLifeHUD" Text="100000" Foreground="White" FontFamily="Open Sans" FontSize="120" Margin="0" />
+                </StackPanel>
+                <TextBlock Text="HP" Foreground="White" FontFamily="Open Sans" FontSize="100" Margin="98,-40,0,0" />
+            </StackPanel>
+        </StackPanel>
+        
+    </Viewbox>
+</UserControl>

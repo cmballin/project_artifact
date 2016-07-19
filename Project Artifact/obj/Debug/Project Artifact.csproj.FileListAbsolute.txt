@@ -1,0 +1,38 @@
+c:\users\dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\bin\Debug\Project Artifact.exe.config
+c:\users\dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\bin\Debug\Project Artifact.exe
+c:\users\dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\bin\Debug\Project Artifact.pdb
+c:\users\dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\MainWindow.g.cs
+c:\users\dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\App.g.cs
+c:\users\dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\Project Artifact_MarkupCompile.cache
+c:\users\dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\Project Artifact_MarkupCompile.lref
+c:\users\dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\MainWindow.baml
+c:\users\dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\Project Artifact.g.resources
+c:\users\dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\Project_Artifact.Properties.Resources.resources
+c:\users\dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\Project Artifact.csproj.GenerateResource.Cache
+c:\users\dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\Project Artifact.exe
+c:\users\dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\Project Artifact.pdb
+C:\Users\Dana\Documents\Visual Studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\interactiveBar.g.cs
+C:\Users\Dana\Documents\Visual Studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dana\Documents\Visual Studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\interactiveBar.baml
+C:\Users\Dana\Documents\Visual Studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\healthHUD.g.cs
+C:\Users\Dana\Documents\Visual Studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\healthHUD.baml
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\CombatSequence.g.cs
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\CombatSequence.baml
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\CombatLetter.g.cs
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\CombatLetter.baml
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\entityInformationBar.g.cs
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\entityInformationBar.baml
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\App.baml
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\NewScrollbar.baml
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\combatLogxaml.g.cs
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\combatLogxaml.baml
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\VisualKey.g.cs
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\VisualKey.baml
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\CombatSnippet.g.cs
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\CombatSnippet.baml
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\PlayerSideUI.g.cs
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\PlayerSideUI.baml
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\MonsterSideUI.g.cs
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\MonsterSideUI.baml
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\DefenseArea.g.cs
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\DefenseArea.baml
