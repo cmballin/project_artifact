@@ -62,6 +62,7 @@
     <Compile Include="DefenseArea.xaml.cs">
       <DependentUpon>DefenseArea.xaml</DependentUpon>
     </Compile>
+    <Compile Include="GridLengthAnimation.cs" />
     <Compile Include="IntelligentKeyboardMatrix.cs" />
     <Compile Include="keyboardKey.cs" />
     <Compile Include="MaskImage.cs" />

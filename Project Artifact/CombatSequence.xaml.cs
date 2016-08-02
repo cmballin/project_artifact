@@ -90,17 +90,28 @@ namespace Project_Artifact
                 //if the confirmation key is pressed, check for pompletion before processing the key with the child
                 if ((e.Key.ToString() == confirmationKey || e.Key.ToString() == alternateConfirmationKey) && currentSnippet.allPressed)
                 {
-                    //needs to check with bar length to see if it can be pressed.
-                    
-                    currentSnippet.complete = true;
-                    //get a new string or execute damage or something | start snippet index over
+                    if (combatBar.activated == true)
+                    {
+                        //need to set some sort of buffer timer so that there is a button pressing grace period
+                        //bar needs a way to trigger an event that will make the confirmation key light up. Should it only be controlled by the bar? or should the held down keys play a role?
+                        //needs to check with bar length to see if it can be pressed.
 
-                    // TODO get rid of these hard coded numbers
-                    sequenceGenerator ginnyTheGenerator = new sequenceGenerator(2, 3, 2, 4);
-                    text = ginnyTheGenerator.sequence;
+                        combatBar.start(0, 100, TimeSpan.FromSeconds(6));
+                        combatBar.activated = false;
 
-                    confimationKeyUI.activated = false;
-                    return;
+                        currentSnippet.complete = true;
+                        //get a new string or execute damage or something | start snippet index over
+
+                        // TODO get rid of these hard coded numbers
+                        sequenceGenerator ginnyTheGenerator = new sequenceGenerator(2, 3, 2, 4);
+                        text = ginnyTheGenerator.sequence;
+
+
+
+                        confimationKeyUI.activated = false;
+                        return;
+                    }
+           
                 }
 
                 //give key to child to process
@@ -174,6 +185,91 @@ namespace Project_Artifact
                 makeCollections(combatString);
 
                 displayCombatSequence();
+            }
+        }
+
+        public double barPercentage
+        {
+            get
+            {
+                return combatBar.percentage;
+            }
+            set
+            {
+                combatBar.percentage = value;
+            }
+        }
+
+        public Color barColorLow
+        {
+            get
+            {
+                return combatBar.barColorLow;
+            }
+            set
+            {
+                combatBar.barColorLow = value;
+            }
+        }
+
+        public Color barColorHigh
+        {
+            get
+            {
+                return combatBar.barColorHigh;
+            }
+            set
+            {
+                combatBar.barColorHigh = value;
+            }
+        }
+
+        public Color barColorEmergency
+        {
+            get
+            {
+                return combatBar.barColorEmergency;
+            }
+            set
+            {
+                combatBar.barColorEmergency = value;
+            }
+        }
+
+        public bool isBarHealthBar
+        {
+            get
+            {
+                return combatBar.healthBar;
+            }
+            set
+            {
+               combatBar.healthBar = value;
+            }
+        }
+
+        public bool barActivated
+        {
+            get
+            {
+                return combatBar.activated;
+            }
+            set
+            {
+                combatBar.activated = value;
+
+            }
+        }
+
+        public string barLabel
+        {
+            get
+            {
+                return combatBar.barLabel;
+            }
+            set
+            {
+                combatBar.barLabel = value;
             }
         }
 

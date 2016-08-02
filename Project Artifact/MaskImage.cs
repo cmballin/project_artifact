@@ -28,10 +28,10 @@ namespace Project_Artifact
         {
             // base.OnRender(dc);
 
-            int picMaxWidth = (int)demensions.Width;
+            int picMaxWidth = (int)demensions.Width;            //My father helped me write this piece of code. It makes an attempt to fix the order in which masking is applied to a picture. So that it behaves more like one thinks it would.
             int picMaxHeight = (int)demensions.Height;
 
-           // if (picMaxWidth < 100) picMaxWidth = 100;
+           // if (picMaxWidth < 100) picMaxWidth = 100;                         //this was an optional attempt to make the picture ignore it's boundng box. Won't work as I want without a lot of work.
            // if (picMaxHeight < 100) picMaxHeight = 100;
 
             //if there is a parent. if flowing right to left do something

@@ -36,3 +36,4 @@ C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Art
 C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\MonsterSideUI.baml
 C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\DefenseArea.g.cs
 C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\DefenseArea.baml
+C:\Users\Dana\Documents\Visual Studio 2015\Projects\Project Artifact\Project Artifact\obj\Debug\Project Artifact.csprojResolveAssemblyReference.cache

@@ -5,17 +5,29 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:Project_Artifact"
              mc:Ignorable="d" 
-             d:DesignHeight="97" d:DesignWidth="468">
-    <Grid >
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="3*"/>
-            <ColumnDefinition Width="1*"/>
-        </Grid.ColumnDefinitions>
-        
-        <Viewbox HorizontalAlignment="Left">
-            <StackPanel x:Name="sequenceContainer" Orientation="Horizontal" />
-        </Viewbox>
-        
-        <local:VisualKey x:Name="confimationKeyUI" Margin="0,5,0,0"  HorizontalAlignment="Right"  Grid.Column="1"  />
+             d:DesignHeight="210" d:DesignWidth="560">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <local:interactiveBar x:Name="combatBar" Grid.Row="1" barLabel="attack meter" barColorEmergency="#FFA7E6FB" barColorLow="#FF4FBCE0" barColorHigh="#FF0AABE0" percentage="10" />
+
+        <Grid Grid.Row="2" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+
+ 
+            <Viewbox HorizontalAlignment="Left">
+                <StackPanel x:Name="sequenceContainer" Orientation="Horizontal" />
+            </Viewbox>
+
+            <local:VisualKey x:Name="confimationKeyUI" Margin="0,5,0,0"  HorizontalAlignment="Right"  Grid.Column="1"  />
+        </Grid>
     </Grid>
+
 </UserControl>

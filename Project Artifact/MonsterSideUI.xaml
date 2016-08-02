@@ -55,18 +55,10 @@
                 <Image VerticalAlignment="Center" Grid.Column="1"  Source="attackSword2.png" Margin="10" RenderOptions.BitmapScalingMode="HighQuality"/>
 
                 <!--Attack meter-->
-                <Grid Grid.Column="0">
-                    <Grid.RowDefinitions>
-                        <RowDefinition Height="1*"/>
-                        <RowDefinition Height="1*"/>
-                        <RowDefinition Height="1*"/>
-                        <RowDefinition Height="*"/>
-                    </Grid.RowDefinitions>
+                 
+                <local:CombatSequence Grid.Row="2" Margin="20,0,0,0" text="P5Q|LME|97V" confirmKeyActivated="False" barLabel="block meter" confirmKeyText="Enter" barColorEmergency="#FFA7E6FB" barColorLow="#FF4FBCE0" barColorHigh="#FF0AABE0" barPercentage="10"/>
 
-                    <local:interactiveBar Grid.Row="1" Margin="20,0" barLabel="block meter" barColorEmergency="#FFA7E6FB" barColorLow="#FF4FBCE0" barColorHigh="#FF0AABE0" percentage="10" />
-                    <local:CombatSequence Grid.Row="2" Margin="20,0,20,0" text="P5Q|LME|97V" confirmKeyActivated="False" confirmKeyText="Enter"/>
-
-                </Grid>
+              
             </Grid>
 
 

@@ -1,0 +1,38 @@
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\bin\Release\Project Artifact.exe.config
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\bin\Release\Project Artifact.exe
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\bin\Release\Project Artifact.pdb
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\CombatLetter.g.cs
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\combatLogxaml.g.cs
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\CombatSequence.g.cs
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\CombatSnippet.g.cs
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\DefenseArea.g.cs
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\entityInformationBar.g.cs
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\healthHUD.g.cs
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\interactiveBar.g.cs
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\MainWindow.g.cs
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\MonsterSideUI.g.cs
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\PlayerSideUI.g.cs
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\VisualKey.g.cs
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\App.g.cs
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\Project Artifact_MarkupCompile.cache
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\Project Artifact_MarkupCompile.lref
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\App.baml
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\CombatLetter.baml
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\combatLogxaml.baml
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\CombatSequence.baml
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\CombatSnippet.baml
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\DefenseArea.baml
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\entityInformationBar.baml
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\healthHUD.baml
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\interactiveBar.baml
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\MainWindow.baml
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\MonsterSideUI.baml
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\NewScrollbar.baml
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\PlayerSideUI.baml
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\VisualKey.baml
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\Project Artifact.g.resources
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\Project_Artifact.Properties.Resources.resources
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\Project Artifact.csproj.GenerateResource.Cache
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\Project Artifact.exe
+C:\Users\Dana\documents\visual studio 2015\Projects\Project Artifact\Project Artifact\obj\Release\Project Artifact.pdb
